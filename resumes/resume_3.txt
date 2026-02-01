@@ -1,0 +1,18 @@
+Name: Rohit Meena
+
+Education:
+B.Tech IT, National Engineering College
+CGPA: 9.1 / 10
+
+Skills:
+Python, TensorFlow, PyTorch, Deep Learning, OpenCV
+
+Projects:
+Traffic Sign Detection using CNN
+Face Mask Detection System
+
+Internship:
+ML Intern at TCS (6 months)
+
+Achievements:
+Published research paper

@@ -1,0 +1,11 @@
+Name: Mohit Agarwal
+
+Education:
+B.Sc IT
+CGPA: 6.5
+
+Skills:
+PHP, MySQL, HTML
+
+Projects:
+Online Quiz System

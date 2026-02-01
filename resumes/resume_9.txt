@@ -1,0 +1,11 @@
+Name: Rakesh Kumar
+
+Education:
+Diploma in Computer Engineering
+Percentage: 78%
+
+Skills:
+C, C++, Embedded Systems
+
+Projects:
+Home Automation using Arduino

@@ -1,0 +1,18 @@
+Name: Aditi Rao
+
+Education:
+B.Tech CSE
+CGPA: 9.5 / 10
+
+Skills:
+Python, ML, DL, NLP, SQL
+
+Projects:
+Automated Resume Screening System
+Fake News Detection System
+
+Internship:
+ML Intern (6 months)
+
+Achievements:
+University Rank 1

@@ -1,0 +1,11 @@
+Name: Tanvi Joshi
+
+Education:
+B.Sc Mathematics
+CGPA: 7.9
+
+Skills:
+Statistics, Python
+
+Projects:
+Data Analysis on Sales Dataset

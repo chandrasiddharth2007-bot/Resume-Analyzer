@@ -1,0 +1,11 @@
+Name: Vishal Pandey
+
+Education:
+B.Tech IT
+CGPA: 7.5
+
+Skills:
+Linux, Networking
+
+Projects:
+Network Monitoring Tool

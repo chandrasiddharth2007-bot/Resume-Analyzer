@@ -1,0 +1,14 @@
+Name: Neha Verma
+
+Education:
+B.Sc Computer Science, XYZ University
+CGPA: 7.4/10
+
+Skills:
+Java, OOP, MySQL
+
+Projects:
+Library Management System
+
+Extra Activities:
+Member of coding club

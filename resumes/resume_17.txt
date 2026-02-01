@@ -1,0 +1,14 @@
+Name: Abhishek Raj
+
+Education:
+BCA
+CGPA: 7.1
+
+Skills:
+Java, Android Development
+
+Projects:
+Android Weather App
+
+Internship:
+Android Intern (2 months)

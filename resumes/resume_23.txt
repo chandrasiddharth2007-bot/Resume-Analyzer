@@ -1,0 +1,11 @@
+Name: Simran Kaur
+
+Education:
+MBA Analytics
+CGPA: 8.3
+
+Skills:
+SQL, Tableau, Python
+
+Experience:
+Data Analyst – 1 year

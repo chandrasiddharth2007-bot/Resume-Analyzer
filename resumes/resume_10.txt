@@ -1,0 +1,18 @@
+Name: Divya Malhotra
+
+Education:
+B.Tech AI & ML
+CGPA: 9.3
+
+Skills:
+Python, NLP, Transformers, TensorFlow
+
+Projects:
+Resume Parsing System
+Chatbot using NLP
+
+Internship:
+AI Intern at Microsoft (3 months)
+
+Achievements:
+Kaggle Silver Medalist

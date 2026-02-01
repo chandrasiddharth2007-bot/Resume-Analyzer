@@ -1,0 +1,11 @@
+Name: Rahul Verma
+
+Education:
+B.Tech CSE
+CGPA: 6.8
+
+Skills:
+JavaScript, Node.js
+
+Projects:
+Chat Application

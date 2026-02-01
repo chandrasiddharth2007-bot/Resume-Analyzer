@@ -1,0 +1,14 @@
+Name: Riya Chatterjee
+
+Education:
+B.Tech CSE
+CGPA: 8.8
+
+Skills:
+Python, SQL, Machine Learning
+
+Projects:
+Credit Card Fraud Detection
+
+Achievements:
+Topper in ML Course

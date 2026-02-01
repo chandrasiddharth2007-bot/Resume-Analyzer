@@ -1,0 +1,21 @@
+Name: Aarav Sharma
+
+Education:
+B.Tech in Computer Science, ABC Institute of Technology
+CGPA: 8.7 / 10
+
+Skills:
+Python, C++, SQL, Machine Learning, Data Structures
+
+Projects:
+Smart Attendance System using Face Recognition
+Weather Prediction using ML
+
+Internship:
+Software Developer Intern at Infosys (3 months)
+
+Achievements:
+Top 5% in coding contest
+
+Languages:
+English, Hindi

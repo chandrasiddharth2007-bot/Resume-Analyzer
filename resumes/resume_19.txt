@@ -1,0 +1,11 @@
+Name: Arjun Das
+
+Education:
+B.Tech CSE
+CGPA: 9.0
+
+Skills:
+C++, Competitive Programming
+
+Achievements:
+CodeChef 4 Star

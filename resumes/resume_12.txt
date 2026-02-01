@@ -1,0 +1,14 @@
+Name: Isha Kapoor
+
+Education:
+B.Tech CSE
+CGPA: 8.2
+
+Skills:
+Python, Java, Git
+
+Projects:
+Student Management System
+
+Languages:
+English, French

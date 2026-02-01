@@ -1,0 +1,11 @@
+Name: Pranav Kulkarni
+
+Education:
+B.Tech ECE
+CGPA: 7.6
+
+Skills:
+MATLAB, Signal Processing
+
+Projects:
+Speech Signal Analysis

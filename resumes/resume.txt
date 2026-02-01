@@ -1,0 +1,15 @@
+NAME: Ankit Sharma
+
+I am a full stack developer.
+Have worked with React, Node, Express, MongoDB.
+Built ecommerce website and admin panel.
+
+Education:
+12th - 85%
+B.Tech IT - 7.9 CGPA
+
+Experience
+6 months internship at web agency
+Handled APIs and frontend UI
+
+Skills include JS HTML CSS React Git

@@ -1,0 +1,14 @@
+Name: Saurabh Jain
+
+Education:
+MBA IT
+CGPA: 7.8
+
+Skills:
+Business Analysis, SQL, Excel
+
+Experience:
+Business Analyst – 1 year
+
+Achievements:
+Employee of the Month

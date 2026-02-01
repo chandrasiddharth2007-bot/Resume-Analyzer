@@ -1,0 +1,14 @@
+Name: Mehul Shah
+
+Education:
+M.Tech AI
+CGPA: 8.9
+
+Skills:
+Deep Learning, Computer Vision
+
+Projects:
+Object Detection System
+
+Internship:
+Research Intern (6 months)

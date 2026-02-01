@@ -1,0 +1,11 @@
+Name: Nidhi Saxena
+
+Education:
+MCA
+CGPA: 9.0
+
+Skills:
+Python, Data Analytics, Power BI
+
+Internship:
+Data Analyst Intern (5 months)

@@ -1,0 +1,11 @@
+Name: Aman Yadav
+
+Education:
+B.Tech Mechanical Engineering
+CGPA: 7.2
+
+Skills:
+AutoCAD, SolidWorks
+
+Extra Activities:
+Sports Secretary

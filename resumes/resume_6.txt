@@ -1,0 +1,15 @@
+Name: Pooja Nair
+
+Education:
+M.Tech Data Science
+CGPA: 8.5 / 10
+
+Skills:
+Python, R, Statistics, Machine Learning
+
+Projects:
+Stock Price Prediction
+Customer Churn Analysis
+
+Achievements:
+Winner – College Hackathon

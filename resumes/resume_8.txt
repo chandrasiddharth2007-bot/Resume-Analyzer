@@ -1,0 +1,18 @@
+Name: Sneha Patel
+
+Education:
+B.Tech CSE
+CGPA: 8.9/10
+
+Skills:
+Python, Django, REST APIs, PostgreSQL
+
+Projects:
+Online Learning Platform
+Blog Website
+
+Internship:
+Web Developer Intern (4 months)
+
+Online Profiles:
+GitHub: github.com/sneha

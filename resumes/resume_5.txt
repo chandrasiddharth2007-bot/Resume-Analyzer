@@ -1,0 +1,14 @@
+Name: Kunal Singh
+
+Education:
+BCA, State University
+CGPA: 8.0
+
+Skills:
+Python, Flask, SQL
+
+Projects:
+Online Voting System
+
+Internship:
+Backend Intern at Startup (2 months)

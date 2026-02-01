@@ -1,0 +1,15 @@
+Name: Ananya Gupta
+
+Education:
+B.Tech Computer Engineering
+CGPA: 6.9
+
+Skills:
+HTML, CSS, JavaScript, React
+
+Projects:
+Portfolio Website
+E-commerce Frontend
+
+Languages:
+English
