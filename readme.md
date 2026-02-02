@@ -41,6 +41,7 @@ domain analysis, and ranks candidates objectively.
 <tr><td>College Ranking</td><td>2%</td></tr>
 <tr><td>School Marks</td><td>2%</td></tr>
 </table>
+<img src="resume_analysis.png">
 </div>
 <div class="card">
 <h2>🧠 Semantic Domain Intelligence</h2>
@@ -53,6 +54,7 @@ Machine Learning, Data Science, Web Development, and Software Engineering.
         forced single-label classification.
       </p>
     </div>
+<video src="demo.mp4" autoplay muted loop width="600"></video>
 
 <div class="card">
       <h2>🖥️ Tech Stack</h2>
@@ -85,7 +87,7 @@ python -m streamlit run frontend/app.py
         <li>Scalable and reproducible</li>
       </ul>
     </div>
-
+<img src="profile_fit.png">
 <div class="card">
       <h2>🔮 Future Enhancements</h2>
       <ul>

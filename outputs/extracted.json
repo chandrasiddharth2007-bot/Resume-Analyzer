@@ -6,5 +6,205 @@
     "projects": "",
     "achievements": "",
     "extras": ""
+  },
+  "resume_1.txt": {
+    "education": "Education:\nB.Tech in Computer Science, ABC Institute of Technology\nCGPA: 8.7 / 10\n\n",
+    "skills": "Skills:\nPython, C++, SQL, Machine Learning, Data Structures\n\n",
+    "experience": "Internship:\nSoftware Developer Intern at Infosys (3 months)\n\n",
+    "projects": "Projects:\nSmart Attendance System using Face Recognition\nWeather Prediction using ML\n\n",
+    "achievements": "Achievements:\nTop 5% in coding contest\n\n",
+    "extras": "Languages:\nEnglish, Hindi\n\n"
+  },
+  "resume_2.txt": {
+    "education": "Education:\nB.Sc Computer Science, XYZ University\nCGPA: 7.4/10\n\n",
+    "skills": "Skills:\nJava, OOP, MySQL\n\n",
+    "experience": "",
+    "projects": "Projects:\nLibrary Management System\n\n",
+    "achievements": "",
+    "extras": "Extra Activities:\nMember of coding club\n\n"
+  },
+  "resume_3.txt": {
+    "education": "Education:\nB.Tech IT, National Engineering College\nCGPA: 9.1 / 10\n\n",
+    "skills": "Skills:\nPython, TensorFlow, PyTorch, Deep Learning, OpenCV\n\n",
+    "experience": "Internship:\nML Intern at TCS (6 months)\n\n",
+    "projects": "Projects:\nTraffic Sign Detection using CNN\nFace Mask Detection System\n\n",
+    "achievements": "Achievements:\nPublished research paper\n\n",
+    "extras": ""
+  },
+  "resume_4.txt": {
+    "education": "Education:\nB.Tech Computer Engineering\nCGPA: 6.9\n\n",
+    "skills": "Skills:\nHTML, CSS, JavaScript, React\n\n",
+    "experience": "",
+    "projects": "Projects:\nPortfolio Website\nE-commerce Frontend\n\n",
+    "achievements": "",
+    "extras": "Languages:\nEnglish\n\n"
+  },
+  "resume_5.txt": {
+    "education": "Education:\nBCA, State University\nCGPA: 8.0\n\n",
+    "skills": "Skills:\nPython, Flask, SQL\n\n",
+    "experience": "Internship:\nBackend Intern at Startup (2 months)\n\n",
+    "projects": "Projects:\nOnline Voting System\n\n",
+    "achievements": "",
+    "extras": ""
+  },
+  "resume_6.txt": {
+    "education": "Education:\nM.Tech Data Science\nCGPA: 8.5 / 10\n\n",
+    "skills": "Skills:\nPython, R, Statistics, Machine Learning\n\n",
+    "experience": "",
+    "projects": "Projects:\nStock Price Prediction\nCustomer Churn Analysis\n\n",
+    "achievements": "Achievements:\nWinner \u2013 College Hackathon\n\n",
+    "extras": ""
+  },
+  "resume_7.txt": {
+    "education": "Education:\nB.Tech Mechanical Engineering\nCGPA: 7.2\n\n",
+    "skills": "Skills:\nAutoCAD, SolidWorks\n\n",
+    "experience": "",
+    "projects": "",
+    "achievements": "",
+    "extras": "Extra Activities:\nSports Secretary\n\n"
+  },
+  "resume_8.txt": {
+    "education": "Education:\nB.Tech CSE\nCGPA: 8.9/10\n\n",
+    "skills": "Skills:\nPython, Django, REST APIs, PostgreSQL\n\n",
+    "experience": "Internship:\nWeb Developer Intern (4 months)\n\nOnline Profiles:\nGitHub: github.com/sneha\n\n",
+    "projects": "Projects:\nOnline Learning Platform\nBlog Website\n\n",
+    "achievements": "",
+    "extras": ""
+  },
+  "resume_9.txt": {
+    "education": "Education:\nDiploma in Computer Engineering\nPercentage: 78%\n\n",
+    "skills": "Skills:\nC, C++, Embedded Systems\n\n",
+    "experience": "",
+    "projects": "Projects:\nHome Automation using Arduino\n\n",
+    "achievements": "",
+    "extras": ""
+  },
+  "resume_10.txt": {
+    "education": "Education:\nB.Tech AI & ML\nCGPA: 9.3\n\n",
+    "skills": "Skills:\nPython, NLP, Transformers, TensorFlow\n\n",
+    "experience": "Internship:\nAI Intern at Microsoft (3 months)\n\n",
+    "projects": "Projects:\nResume Parsing System\nChatbot using NLP\n\n",
+    "achievements": "Achievements:\nKaggle Silver Medalist\n\n",
+    "extras": ""
+  },
+  "resume_11.txt": {
+    "education": "Education:\nMBA IT\nCGPA: 7.8\n\n",
+    "skills": "Skills:\nBusiness Analysis, SQL, Excel\n\n",
+    "experience": "Experience:\nBusiness Analyst \u2013 1 year\n\n",
+    "projects": "",
+    "achievements": "Achievements:\nEmployee of the Month\n\n",
+    "extras": ""
+  },
+  "resume_12.txt": {
+    "education": "Education:\nB.Tech CSE\nCGPA: 8.2\n\n",
+    "skills": "Skills:\nPython, Java, Git\n\n",
+    "experience": "",
+    "projects": "Projects:\nStudent Management System\n\n",
+    "achievements": "",
+    "extras": "Languages:\nEnglish, French\n\n"
+  },
+  "resume_13.txt": {
+    "education": "Education:\nB.Sc IT\nCGPA: 6.5\n\n",
+    "skills": "Skills:\nPHP, MySQL, HTML\n\n",
+    "experience": "",
+    "projects": "Projects:\nOnline Quiz System\n\n",
+    "achievements": "",
+    "extras": ""
+  },
+  "resume_14.txt": {
+    "education": "Education:\nMCA\nCGPA: 9.0\n\n",
+    "skills": "Skills:\nPython, Data Analytics, Power BI\n\n",
+    "experience": "Internship:\nData Analyst Intern (5 months)\n\n",
+    "projects": "",
+    "achievements": "",
+    "extras": ""
+  },
+  "resume_15.txt": {
+    "education": "Education:\nB.Tech ECE\nCGPA: 7.6\n\n",
+    "skills": "Skills:\nMATLAB, Signal Processing\n\n",
+    "experience": "",
+    "projects": "Projects:\nSpeech Signal Analysis\n\n",
+    "achievements": "",
+    "extras": ""
+  },
+  "resume_16.txt": {
+    "education": "Education:\nB.Tech CSE\nCGPA: 8.8\n\n",
+    "skills": "Skills:\nPython, SQL, Machine Learning\n\n",
+    "experience": "",
+    "projects": "Projects:\nCredit Card Fraud Detection\n\n",
+    "achievements": "Achievements:\nTopper in ML Course\n\n",
+    "extras": ""
+  },
+  "resume_17.txt": {
+    "education": "Education:\nBCA\nCGPA: 7.1\n\n",
+    "skills": "Skills:\nJava, Android Development\n\n",
+    "experience": "Internship:\nAndroid Intern (2 months)\n\n",
+    "projects": "Projects:\nAndroid Weather App\n\n",
+    "achievements": "",
+    "extras": ""
+  },
+  "resume_18.txt": {
+    "education": "Education:\nB.Tech IT\nCGPA: 8.4\n\n",
+    "skills": "Skills:\nPython, Cloud Computing, AWS\n\n",
+    "experience": "",
+    "projects": "Projects:\nCloud File Storage System\n\n",
+    "achievements": "",
+    "extras": ""
+  },
+  "resume_19.txt": {
+    "education": "Education:\nB.Tech CSE\nCGPA: 9.0\n\n",
+    "skills": "Skills:\nC++, Competitive Programming\n\n",
+    "experience": "",
+    "projects": "",
+    "achievements": "Achievements:\nCodeChef 4 Star\n\n",
+    "extras": ""
+  },
+  "resume_20.txt": {
+    "education": "Education:\nM.Tech AI\nCGPA: 8.9\n\n",
+    "skills": "Skills:\nDeep Learning, Computer Vision\n\n",
+    "experience": "Internship:\nResearch Intern (6 months)\n\n",
+    "projects": "Projects:\nObject Detection System\n\n",
+    "achievements": "",
+    "extras": ""
+  },
+  "resume_21.txt": {
+    "education": "Education:\nB.Sc Mathematics\nCGPA: 7.9\n\n",
+    "skills": "Skills:\nStatistics, Python\n\n",
+    "experience": "",
+    "projects": "Projects:\nData Analysis on Sales Dataset\n\n",
+    "achievements": "",
+    "extras": ""
+  },
+  "resume_22.txt": {
+    "education": "Education:\nB.Tech CSE\nCGPA: 6.8\n\n",
+    "skills": "Skills:\nJavaScript, Node.js\n\n",
+    "experience": "",
+    "projects": "Projects:\nChat Application\n\n",
+    "achievements": "",
+    "extras": ""
+  },
+  "resume_23.txt": {
+    "education": "Education:\nMBA Analytics\nCGPA: 8.3\n\n",
+    "skills": "Skills:\nSQL, Tableau, Python\n\n",
+    "experience": "Experience:\nData Analyst \u2013 1 year\n\n",
+    "projects": "",
+    "achievements": "",
+    "extras": ""
+  },
+  "resume_24.txt": {
+    "education": "Education:\nB.Tech IT\nCGPA: 7.5\n\n",
+    "skills": "Skills:\nLinux, Networking\n\n",
+    "experience": "",
+    "projects": "Projects:\nNetwork Monitoring Tool\n\n",
+    "achievements": "",
+    "extras": ""
+  },
+  "resume_25.txt": {
+    "education": "Education:\nB.Tech CSE\nCGPA: 9.5 / 10\n\n",
+    "skills": "Skills:\nPython, ML, DL, NLP, SQL\n\n",
+    "experience": "Internship:\nML Intern (6 months)\n\n",
+    "projects": "Projects:\nAutomated Resume Screening System\nFake News Detection System\n\n",
+    "achievements": "Achievements:\nUniversity Rank 1\n\n",
+    "extras": ""
   }
 }
